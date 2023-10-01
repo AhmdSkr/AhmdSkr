@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmdSkr
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning GO lang and it's Echo web framework, Dart/Flutter, PHP/Laravel, and Java.
+- 🌱 I’m currently learning GO lang and it's Echo web framework, Dart/Flutter, PHP/Laravel, and Java/Spring.
 - 📫 How to reach me: ahmad.mhmd.sakr@gmail.com
 
 <!---
